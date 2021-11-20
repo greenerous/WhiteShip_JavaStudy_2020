@@ -36,7 +36,7 @@ javac -target 1.4 HelloWorld.java
 
 ## 바이트코드
 
-![](C:\Users\rlgus\Downloads\1.PNG)
+![](https://raw.githubusercontent.com/greenerous/image_repo/main/typora_img/%EB%B0%94%EC%9D%B4%ED%8A%B8%EC%BD%94%EB%93%9C.PNG)
 
 
 
